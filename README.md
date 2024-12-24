@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/36642819?v=4" align="center" alt="Ashok Kumar Sethy GitHub Avatar" />
  <h2 align="center">Ashok Kumar Sethy</h2>
- <p align="center">Experienced Technical Support Professional | PHP, WordPress, Laravel, Angular UI | Passionate About Team Management and WordPress Theme Development</p>
+ <p align="center">Experienced Technical Support Professional | Angular UI, PHP, WordPress, Laravel, Azure DevOps | Passionate About Team Management and WordPress Theme Development</p>
 </p>
 <p align="center">
     <a href="https://github.com/ashoksethy/Todo-list">
