@@ -5,7 +5,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/ashoksethy/Todo-list">
-        ToDo-List
+        ToDo-List-Angular
     </a>
     ·
    <a href="https://github.com/ashoksethy/LeetCode">
